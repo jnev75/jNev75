@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Motor Insurance Web Application**
+ 🔭 I’m currently developing a **Car Park Management System** using C# Windows Forms Application (.NET 8.0) and Visual Studio Community IDE (Development almost complete)
  
- 🌱 I’m currently learning **Angular**
+ 🌱 Also plan on learning **Selenium** for test automation on web browsers and SpecFlow for BDD (Behaviour-Driven Development)
 
 ⚡ Fun fact **I play tennis in my spare time!**
 
@@ -37,8 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,django,dotnet,mysql,sqlite,windows" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode.idea" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java,py" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,sqlite,windows" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" /><br>
 </div>
 <br>
 

@@ -6,15 +6,15 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Northern Ireland</h3>
+<h3 align="center">A passionate and aspiring **Software Tester**</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently developing a **Car Park Management System** using C# Windows Forms Application (.NET 8.0) and Visual Studio Community IDE (Development almost complete)
+ 🔭 I’m currently developing a **Car Park Management System** using **C# Windows Forms Application (.NET 8.0)** and Visual Studio Community IDE (Development almost complete)
  
- 🌱 Also plan on learning **Selenium** for test automation on web browsers and SpecFlow for BDD (Behaviour-Driven Development)
+ 🌱 Also plan on learning **Selenium** for test automation on web browsers and **SpecFlow** for BDD (Behaviour-Driven Development)
 
 ⚡ Fun fact **I play tennis in my spare time!**
 

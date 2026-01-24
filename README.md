@@ -6,13 +6,13 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate and aspiring **Software Tester**</h3>
+<h3 align="center">A passionate and aspiring Software Tester with an interest in QA Test Automation specifically</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently developing a **Car Park Management System** using **C# Windows Forms Application (.NET 8.0)** and Visual Studio Community IDE (Development almost complete)
+ 🔭 I’m currently developing a **Car Park Management System** using **C# Windows Forms Application (.NET 8.0)** and **Visual Studio Community IDE** (Development almost complete)
  
  🌱 Also plan on learning **Selenium** for test automation on web browsers and **SpecFlow** for BDD (Behaviour-Driven Development)
 
